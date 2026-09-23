@@ -6,6 +6,7 @@ function App() {
     <h1>Hi!</h1>
     <h2>Hello {value}
     </h2>
+
   </div>;
 }
 
